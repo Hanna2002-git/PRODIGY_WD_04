@@ -196,7 +196,7 @@ span{
 .details-container{
     padding: 1.5rem;
     flex: 1;
-    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), var(--main-color);;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), var(--main-color);
     font-size: 1.5rem;
     border-radius: 2rem;
     text-align: center;
